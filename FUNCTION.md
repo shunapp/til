@@ -2,6 +2,14 @@
 
 ## いくつかの処理をまとめたもの
 
+```js
+const hello = function() {
+  console.log("Hello World!");
+};
+
+hello();
+```
+
 ## アロー関数
 
 ```js
