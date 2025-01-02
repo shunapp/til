@@ -19,4 +19,5 @@ class Human {
 }
 
 const human = new Human("John", 20);
+human.greeting();
 ```
